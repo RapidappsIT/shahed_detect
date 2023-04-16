@@ -27,5 +27,5 @@ python3 yolov5/detect.py --weights models/shahed_detect.py --source ../doc/raw_1
 ```
 
 # Примеры обнаружения
-![example_1]()
-![example_2]()
+![example_1](https://github.com/RapidappsIT/shahed_detect/blob/master/doc/example_1.jpg?raw=true)
+![example_2](https://github.com/RapidappsIT/shahed_detect/blob/master/doc/example_2.jpg?raw=true)
