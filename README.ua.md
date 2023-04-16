@@ -23,7 +23,7 @@ python3 yolov5/train.py --img 640 --batch -1 --epochs 300 --data ../data/data.ya
 
 # Приклад
 ```shell
-python3 yolov5/detect.py --weights models/shahed_detect.py --source ../doc/raw_1.mp4
+python3 yolov5/detect.py --weights models/shahed_detect.pt --source ../doc/raw_1.mp4
 ```
 
 # Приклади виявлення
